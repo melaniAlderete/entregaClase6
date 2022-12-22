@@ -1,0 +1,92 @@
+[
+	{
+		"title": "kit-kat",
+		"description": "chocolate",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "abc001",
+		"stock": 30,
+		"id": 1
+	},
+	{
+		"title": "kinder",
+		"description": "chocolate",
+		"price": 300,
+		"thumbnail": "Sin imagen",
+		"code": "abc002",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "block",
+		"description": "chocolate",
+		"price": 170,
+		"thumbnail": "Sin imagen",
+		"code": "abc003",
+		"stock": 30,
+		"id": 3
+	},
+	{
+		"title": "shot",
+		"description": "chocolate",
+		"price": 200,
+		"thumbnail": "Sin imagen",
+		"code": "abc004",
+		"stock": 30,
+		"id": 4
+	},
+	{
+		"title": "milka",
+		"description": "chocolate",
+		"price": 230,
+		"thumbnail": "Sin imagen",
+		"code": "abc005",
+		"stock": 30,
+		"id": 5
+	},
+	{
+		"title": "cadbury",
+		"description": "chocolate",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "abc006",
+		"stock": 30,
+		"id": 6
+	},
+	{
+		"title": "hersheys",
+		"description": "chocolate",
+		"price": 325,
+		"thumbnail": "Sin imagen",
+		"code": "abc007",
+		"stock": 30,
+		"id": 7
+	},
+	{
+		"title": "vizzio",
+		"description": "chocolate",
+		"price": 370,
+		"thumbnail": "Sin imagen",
+		"code": "abc008",
+		"stock": 30,
+		"id": 8
+	},
+	{
+		"title": "milka leger2",
+		"description": "chocolate",
+		"price": 200,
+		"thumbnail": "Sin imagen",
+		"code": "abc009",
+		"stock": 30,
+		"id": 9
+	},
+	{
+		"title": "arcor",
+		"description": "chocolate",
+		"price": 120,
+		"thumbnail": "Sin imagen",
+		"code": "abc010",
+		"stock": 30,
+		"id": 10
+	}
+]
